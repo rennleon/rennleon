@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Holberton School
-- 🌱 And learning about software development and networking
-
 <!--
 **rennleon/rennleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
